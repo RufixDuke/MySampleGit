@@ -6,6 +6,6 @@ user = user.lower()
 
 for i in vowel:
     if i in user:
-        vowel_count +=2
+        vowel_count +=3
 
 print("Number of vowel{}".format(vowel_count))       
