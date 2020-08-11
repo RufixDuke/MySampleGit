@@ -1,0 +1,44 @@
+.container{
+    background: linear-gradient(black, red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tipC{
+    border: 2px solid;
+    height: 500px;
+    width: 350px;
+    background-color: bisque;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px 20px;
+}
+
+.main{
+    display: block;
+}
+
+.calch{
+    color: black;
+    height: 40px;
+    color: white;
+    margin: 0;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    padding: 12px 25px;
+    color: red;
+    margin: 8px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
+
+.value{
+    font-weight: bold;
+}
